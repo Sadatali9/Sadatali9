@@ -12,7 +12,7 @@ Islamabad, Islāmābād, Pakistan
 ## Contact Info
 
 - **LinkedIn**: [linkedin.com/in/sadat-ali-7216b3275](https://linkedin.com/in/sadat-ali-7216b3275)
-- **Phone**: 0310-8677545 (Mobile)
+  
 
 ---
 
