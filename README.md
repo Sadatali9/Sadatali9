@@ -58,6 +58,8 @@ class SadatAli:
 <img src="https://img.shields.io/badge/Metasploit-0a0a0c?style=flat-square&logo=metasploit&logoColor=FFB020&labelColor=141418" />
 <img src="https://img.shields.io/badge/Python-0a0a0c?style=flat-square&logo=python&logoColor=FFB020&labelColor=141418" />
 <img src="https://img.shields.io/badge/C++-0a0a0c?style=flat-square&logo=cplusplus&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/Flutter-0a0a0c?style=flat-square&logo=flutter&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/Dart-0a0a0c?style=flat-square&logo=dart&logoColor=FFB020&labelColor=141418" />
 <img src="https://img.shields.io/badge/Bash-0a0a0c?style=flat-square&logo=gnubash&logoColor=FFB020&labelColor=141418" />
 <img src="https://img.shields.io/badge/Linux-0a0a0c?style=flat-square&logo=linux&logoColor=FFB020&labelColor=141418" />
 </p>
@@ -86,6 +88,7 @@ class SadatAli:
 | **Network Packet Sniffer** | Live traffic capture & protocol analysis |
 | **Dictionary / Wordlist Generator** | Password auditing for pentesting engagements |
 | **CTF Write-ups** | Crypto · forensics · reverse engineering (angr) |
+| **[MST Mobile Monitor](https://github.com/Sadatali9/mst-mobile-monitor)** | Flutter · Dart Android app — agent trust monitoring, alerts & approvals |
 
 🔗 **Explore the full portfolio → [sadatali9.github.io/portfolio](https://sadatali9.github.io/portfolio/)**
 
