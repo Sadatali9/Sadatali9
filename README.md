@@ -28,7 +28,7 @@ class SadatAli:
         self.mindset      = "Think like an attacker, build like a defender."
 
     def current_mission(self):
-        return "Securing systems • Playing CTFs • Shipping industry-level work"
+        return "Building MST (FYP) • Securing systems • Playing CTFs"
 ```
 
 ---
@@ -79,10 +79,37 @@ class SadatAli:
 
 ---
 
+## 🚧 Currently Building — Final Year Project
+
+### 🛡️ MST — Multi-Agent Security & Trust
+> **Status:** 🟡 *In active development* (Final Year Project, BS Cybersecurity @ COMSATS)
+
+A **runtime security layer for autonomous AI-agent ecosystems on Kubernetes**. Identity checks tell you *who* an agent is; MST watches **what it actually does**, and keeps deciding how far each agent can still be trusted.
+
+- 🔬 **Kernel-level visibility:** every syscall from every agent, in any language, through a gVisor sandbox. No changes to agent code.
+- 🕸️ **Behaviour monitoring:** a graph neural network on agent-to-agent communication, plus a tool-call detector that catches **prompt-injection-driven misuse**.
+- 🔏 **Output integrity:** gateway-held Ed25519 signing, plus Isolation Forest detection of "signed but wrong" outputs.
+- ⚖️ **Trust fusion:** all evidence becomes **one continuously updated trust score per agent**, with fast loss, slow recovery and memory of past incidents.
+- 🚨 **Autonomous containment:** watch → restrict → quarantine within seconds, with safety limits and human approval for high-impact actions.
+
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-0a0a0c?style=flat-square&logo=kubernetes&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/gVisor-0a0a0c?style=flat-square&logo=google&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/Istio_/_Envoy-0a0a0c?style=flat-square&logo=istio&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/Apache_Kafka-0a0a0c?style=flat-square&logo=apachekafka&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/Go-0a0a0c?style=flat-square&logo=go&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/Python-0a0a0c?style=flat-square&logo=python&logoColor=FFB020&labelColor=141418" />
+<img src="https://img.shields.io/badge/PyTorch-0a0a0c?style=flat-square&logo=pytorch&logoColor=FF3B4E&labelColor=141418" />
+<img src="https://img.shields.io/badge/React-0a0a0c?style=flat-square&logo=react&logoColor=FF3B4E&labelColor=141418" />
+</p>
+
+---
+
 ## 🚩 Featured Work
 
 | Project | Focus |
 |---|---|
+| **🛡️ MST — Multi-Agent Security & Trust** *(FYP · in development)* | Runtime trust & containment for AI agents on Kubernetes · gVisor · GNN · Kafka |
 | **Ransomware Simulation & Prevention** | Malware analysis · encryption behaviour · defense strategy |
 | **OSINT Reconnaissance Toolkit** | Automated footprinting & attack-surface mapping |
 | **Network Packet Sniffer** | Live traffic capture & protocol analysis |
